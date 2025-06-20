@@ -9,9 +9,19 @@
 # English Version
 
 This repository contains the pratical examples present on W3 Schools [C# Tutorial](https://www.w3schools.com/cs/index.php).
+<br></br>
+## 📁 Contents 
+
+### 👩‍💻 [Syntax Examples](/syntax-examples/app/Program.cs)
+- This directory contains syntax examples of C#. 
 
 
 <br></br>
 # Versão em Português
 
 Esse repositório contém os exercícios práticos presentes no W3 Schools [C# Tutorial](https://www.w3schools.com/cs/index.php).
+<br></br>
+## 📁 Conteúdos 
+
+### 👩‍💻 [Exemplos de Sintaxe](/syntax-examples/app/Program.cs)
+- Esse diretório contém exemplos envolvendo a sintaxe do C#. 
