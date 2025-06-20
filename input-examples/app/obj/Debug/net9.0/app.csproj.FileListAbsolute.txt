@@ -1,0 +1,14 @@
+D:\projetos\.net\w3schools\c#\input-examples\app\obj\Debug\net9.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\.net\w3schools\c#\input-examples\app\obj\Debug\net9.0\app.AssemblyInfoInputs.cache
+D:\projetos\.net\w3schools\c#\input-examples\app\obj\Debug\net9.0\app.AssemblyInfo.cs
+D:\projetos\.net\w3schools\c#\input-examples\app\obj\Debug\net9.0\app.csproj.CoreCompileInputs.cache
+D:\projetos\.net\w3schools\c#\input-examples\app\bin\Debug\net9.0\app.exe
+D:\projetos\.net\w3schools\c#\input-examples\app\bin\Debug\net9.0\app.deps.json
+D:\projetos\.net\w3schools\c#\input-examples\app\bin\Debug\net9.0\app.runtimeconfig.json
+D:\projetos\.net\w3schools\c#\input-examples\app\bin\Debug\net9.0\app.dll
+D:\projetos\.net\w3schools\c#\input-examples\app\bin\Debug\net9.0\app.pdb
+D:\projetos\.net\w3schools\c#\input-examples\app\obj\Debug\net9.0\app.dll
+D:\projetos\.net\w3schools\c#\input-examples\app\obj\Debug\net9.0\refint\app.dll
+D:\projetos\.net\w3schools\c#\input-examples\app\obj\Debug\net9.0\app.pdb
+D:\projetos\.net\w3schools\c#\input-examples\app\obj\Debug\net9.0\app.genruntimeconfig.cache
+D:\projetos\.net\w3schools\c#\input-examples\app\obj\Debug\net9.0\ref\app.dll

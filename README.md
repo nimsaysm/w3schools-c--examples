@@ -24,6 +24,9 @@ This repository contains the pratical examples present on W3 Schools [C# Tutoria
 ## 💫 [Type Casting Examples](/type-casting-examples/app/Program.cs)
 - This directory contains implicit and explicit type casting and Convert class methods.
 
+## 🖱️ [Input Examples](/input-examples/app/Program.cs)
+- This directory contains console input examples and how to convert the inputs.
+
 <br></br>
 # Versão em Português
 
@@ -42,3 +45,6 @@ Esse repositório contém os exercícios práticos presentes no W3 Schools [C# T
 
 ## 💫 [Exemplos de Conversão de Tipos](/type-casting-examples/app/Program.cs)
 - Esse diretório contém métodos de conversão de tipos implícitos e explícitos e usos da classe Convert.
+
+## 🖱️ [Exemplos de Input](/input-examples/app/Program.cs)
+- Esse diretório contém exemplos de entrada de console e como converter as entradas.
