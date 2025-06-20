@@ -21,6 +21,8 @@ This repository contains the pratical examples present on W3 Schools [C# Tutoria
 ### 💻 [Variables Examples](/variables-examples/app/Program.cs)
 - This directory contains variables examples, as constant, int, double, char, bool and string types.
 
+## 💫 [Type Casting Examples](/type-casting-examples/app/Program.cs)
+- This directory contains implicit and explicit type casting and Convert class methods.
 
 <br></br>
 # Versão em Português
@@ -37,3 +39,6 @@ Esse repositório contém os exercícios práticos presentes no W3 Schools [C# T
 
 ### 💻 [Exemplos de variáveis](/variables-examples/app/Program.cs)
 - Esse diretório contém exemplos de variáveis, como tipos: constante, int, double, char, bool e string.
+
+## 💫 [Exemplos de Conversão de Tipos](/type-casting-examples/app/Program.cs)
+- Esse diretório contém métodos de conversão de tipos implícitos e explícitos e usos da classe Convert.
