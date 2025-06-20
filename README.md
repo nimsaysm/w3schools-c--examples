@@ -18,6 +18,9 @@ This repository contains the pratical examples present on W3 Schools [C# Tutoria
 ### 💻 [Methods Examples](/methods-examples/app/Program.cs)
 - This directory contains methods examples, with parameters, named arguments and multiple overloads. 
 
+### 💻 [Variables Examples](/variables-examples/app/Program.cs)
+- This directory contains variables examples, as constant, int, double, char, bool and string types.
+
 
 <br></br>
 # Versão em Português
@@ -31,3 +34,6 @@ Esse repositório contém os exercícios práticos presentes no W3 Schools [C# T
 
 ### 💻 [Exemplos de Métodos](/methods-examples/app/Program.cs)
 - Esse diretório contém exemplos de métodos, com parâmetros, argumentos nomeados e múltiplos overloads.
+
+### 💻 [Exemplos de variáveis](/variables-examples/app/Program.cs)
+- Esse diretório contém exemplos de variáveis, como tipos: constante, int, double, char, bool e string.
