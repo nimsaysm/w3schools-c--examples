@@ -27,6 +27,9 @@ This repository contains the pratical examples present on W3 Schools [C# Tutoria
 ## 🖱️ [Input Examples](/input-examples/app/Program.cs)
 - This directory contains console input examples and how to convert the inputs.
 
+## 🧮 [Math Examples](/math-class-examples/app/Program.cs)
+- This directory contains Math Class examples using functions: Min, Max, Sqrt, Abs and Round.
+
 <br></br>
 # Versão em Português
 
@@ -48,3 +51,6 @@ Esse repositório contém os exercícios práticos presentes no W3 Schools [C# T
 
 ## 🖱️ [Exemplos de Input](/input-examples/app/Program.cs)
 - Esse diretório contém exemplos de entrada de console e como converter as entradas.
+
+## 🧮 [Exemplos da Classe Math](/math-class-examples/app/Program.cs)
+- Esse diretório contém exemplos da classe Math, usando as funções: Min, Max, Sqrt, Abs e Round.
