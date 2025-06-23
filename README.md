@@ -30,6 +30,9 @@ This repository contains the pratical examples present on W3 Schools [C# Tutoria
 ## 🧮 [Math Examples](/math-class-examples/app/Program.cs)
 - This directory contains Math Class examples using functions: Min, Max, Sqrt, Abs and Round.
 
+## 🧾 [Strings Examples](/strings-examples/app/Program.cs)
+- This directory contains Strings features, as: text lenght, convert text to Upper and Lower Case, concatenation, interpolation, get index and substrings.
+
 <br></br>
 # Versão em Português
 
@@ -54,3 +57,6 @@ Esse repositório contém os exercícios práticos presentes no W3 Schools [C# T
 
 ## 🧮 [Exemplos da Classe Math](/math-class-examples/app/Program.cs)
 - Esse diretório contém exemplos da classe Math, usando as funções: Min, Max, Sqrt, Abs e Round.
+
+## 🧾 [Exemplos de Strings](/strings-examples/app/Program.cs)
+- Esse diretório contém funcionalidades de Strings, como: tamanho do texto, converter texto para maiúsculas e minúsculas, concatenação, interpolação, obtenção de índice e substrings.
