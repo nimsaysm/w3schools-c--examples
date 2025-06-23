@@ -33,6 +33,9 @@ This repository contains the pratical examples present on W3 Schools [C# Tutoria
 ## 🧾 [Strings Examples](/strings-examples/app/Program.cs)
 - This directory contains Strings features, as: text lenght, convert text to Upper and Lower Case, concatenation, interpolation, get index and substrings.
 
+## 🌀 [Repetition Structures Examples](/repetition-structures-examples/app/Program.cs)
+- This directory contains repetition structures as: while, do-while, for and foreach.
+
 <br></br>
 # Versão em Português
 
@@ -60,3 +63,6 @@ Esse repositório contém os exercícios práticos presentes no W3 Schools [C# T
 
 ## 🧾 [Exemplos de Strings](/strings-examples/app/Program.cs)
 - Esse diretório contém funcionalidades de Strings, como: tamanho do texto, converter texto para maiúsculas e minúsculas, concatenação, interpolação, obtenção de índice e substrings.
+
+## 🌀 [Exemplos de Estruturas de Repetição](/repetition-structures-examples/app/Program.cs)
+- Esse diretório contém estruturas de repetição como:  while, do-while, for and foreach.
