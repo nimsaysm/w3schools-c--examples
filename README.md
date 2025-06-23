@@ -39,6 +39,9 @@ This repository contains the pratical examples present on W3 Schools [C# Tutoria
 ## 🧠 [Conditional Structures Examples](/conditional-structures-examples/app/Program.cs)
 - This directory contains conditional structures as: if, if-else, ternary operator and switch-case.
 
+## ⌨️ [Arrays Examples](/arrays-examples/app/Program.cs)
+- This directory contains arrays examples using functions as: Max, Min, Sum and Array.Sort.
+
 <br></br>
 # Versão em Português
 
@@ -72,3 +75,6 @@ Esse repositório contém os exercícios práticos presentes no W3 Schools [C# T
 
 ## 🧠 [Exemplos de Estruturas Condicionais](/conditional-structures-examples/app/Program.cs)
 - Esse diretório contém estruturas condicionais como: if, if-else, ternary operator and switch-case.
+
+## ⌨️ [Exemplos de Arrays](/arrays-examples/app/Program.cs)
+- Esse diretório contém exemplos de arrays como as funções: Max, Min, Sum and Array.Sort.
