@@ -48,6 +48,9 @@ This repository contains the pratical examples present on W3 Schools [C# Tutoria
 ## 🔢 [Enums Examples](/enums-examples/app/Program.cs)
 - This directory sets named constants to use enum feature.
 
+## 📂 [Files Examples](/files-examples/app/Program.cs)
+- This directory contains examples using File class from System.IO. The examples use features to Write, Read, Update and Delete files.
+
 <br></br>
 # Versão em Português
 
@@ -90,3 +93,6 @@ Esse repositório contém os exercícios práticos presentes no W3 Schools [C# T
 
 ## 🔢 [Exemplos de Enums](/enums-examples/app/Program.cs)
 - Esse diretório define constantes nomeadas para usar a funcionalidade de enum.
+
+## 📂 [Exemplos de Files](/files-examples/app/Program.cs)
+- Esse diretório contém exemplos que usam a classe File do System.IO. Os exemplos usam funcionalidades para escrever, ler, atualizar e excluir arquivos.
