@@ -42,6 +42,9 @@ This repository contains the pratical examples present on W3 Schools [C# Tutoria
 ## ⌨️ [Arrays Examples](/arrays-examples/app/Program.cs)
 - This directory contains arrays examples using functions as: Max, Min, Sum and Array.Sort.
 
+## 🖥️ [OOP Examples](/oop-examples/app/Program.cs)
+- This directory contains OOP examples using: Class, Object instances, inheritance with Base and Derived Classes, Abstract Class and Interface.
+
 <br></br>
 # Versão em Português
 
@@ -78,3 +81,6 @@ Esse repositório contém os exercícios práticos presentes no W3 Schools [C# T
 
 ## ⌨️ [Exemplos de Arrays](/arrays-examples/app/Program.cs)
 - Esse diretório contém exemplos de arrays como as funções: Max, Min, Sum and Array.Sort.
+
+## 🖥️ [Exemplos de POO](/oop-examples/app/Program.cs)
+- Esse diretório contém exemplos de POO usando: Classe, instâncias de objetos, herança com classes Base e Derivada, classe abstrata e interface.
