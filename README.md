@@ -51,6 +51,9 @@ This repository contains the pratical examples present on W3 Schools [C# Tutoria
 ## 📂 [Files Examples](/files-examples/app/Program.cs)
 - This directory contains examples using File class from System.IO. The examples use features to Write, Read, Update and Delete files.
 
+## ⚠️ [Exceptions Examples](/exceptions-examples/app/Program.cs)
+- This directory contains examples using try...catch and throw manual exception.
+
 <br></br>
 # Versão em Português
 
@@ -96,3 +99,6 @@ Esse repositório contém os exercícios práticos presentes no W3 Schools [C# T
 
 ## 📂 [Exemplos de Files](/files-examples/app/Program.cs)
 - Esse diretório contém exemplos que usam a classe File do System.IO. Os exemplos usam funcionalidades para escrever, ler, atualizar e excluir arquivos.
+
+## ⚠️ [Exemplos de Exceptions](/exceptions-examples/app/Program.cs)
+- Esse diretório contém exemplos usando try...catch e throw.
