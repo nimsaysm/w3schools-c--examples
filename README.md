@@ -45,6 +45,9 @@ This repository contains the pratical examples present on W3 Schools [C# Tutoria
 ## 🖥️ [OOP Examples](/oop-examples/app/Program.cs)
 - This directory contains OOP examples using: Class, Object instances, inheritance with Base and Derived Classes, Abstract Class and Interface.
 
+## 🔢 [Enums Examples](/enums-examples/app/Program.cs)
+- This directory sets named constants to use enum feature.
+
 <br></br>
 # Versão em Português
 
@@ -84,3 +87,6 @@ Esse repositório contém os exercícios práticos presentes no W3 Schools [C# T
 
 ## 🖥️ [Exemplos de POO](/oop-examples/app/Program.cs)
 - Esse diretório contém exemplos de POO usando: Classe, instâncias de objetos, herança com classes Base e Derivada, classe abstrata e interface.
+
+## 🔢 [Exemplos de Enums](/enums-examples/app/Program.cs)
+- Esse diretório define constantes nomeadas para usar a funcionalidade de enum.
